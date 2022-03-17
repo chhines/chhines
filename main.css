@@ -7,7 +7,7 @@ body{
     height: 100%;
     width: 100%;
     display: flex;
-    background: url(images/List_bg.jpg);
+    background: url(List_bg.jpg);
     flex-direction: row;
 }
 
@@ -33,7 +33,7 @@ input[type=text] {
 
 .gallery{
     flex: 1;
-    background: url(images/Gallery_bg.jpg);
+    background: url(Gallery_bg.jpg);
     position:relative;
 }
 
